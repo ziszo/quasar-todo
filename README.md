@@ -1,6 +1,6 @@
 # Todo (quasar-todo)
 
-A Quasar Framework app | [demo](https://ziszo.github.io/quasar-todo-live)
+A Quasar Framework app | [demo](https://ziszo.github.io/quasar-todo-live) without backend
 
 ## Install the dependencies
 ```bash
